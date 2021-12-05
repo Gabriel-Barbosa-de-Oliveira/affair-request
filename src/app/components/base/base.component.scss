@@ -1,0 +1,22 @@
+.background{
+    background-color: rgba($color: #ff9999, $alpha: 0.5);
+    height: 100%;
+    width: 100%;
+}
+
+.request-container {
+    background-image: url('https://i.pinimg.com/564x/2e/4c/20/2e4c20b6293ba0b8344904cc90c0857a.jpg');
+    // opacity: 0.6;
+    height: 100%;
+    width: 100%;
+}
+
+.request {
+    font-family: 'Roboto', 'sans-serif';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 30px;
+    text-align: center;
+}
